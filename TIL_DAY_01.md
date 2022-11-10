@@ -21,7 +21,7 @@
 
 
 
-## CLI
+## CLI 
 ---
 > CLI (Command Line Interface, 커맨드 라인 인터페이스)는 터미널을 통해 사용자와 컴퓨터가 상호 작용하는 방식을 뜻한다.
 
